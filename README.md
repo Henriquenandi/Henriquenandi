@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Henrique!<br><br>🔹 Passionate about Revit, automation, and coding<br><br>🔹 Specializing in C#sharp / pyRevit, and BIM automation<br><br>
+#  About Me:
+👋 Hi, I'm Henrique!<br><br>🔹 Passionate about Revit, automation, and coding.<br><br>🔹 Specializing in C#sharp / pyRevit, and BIM automation<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-nandi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henrique-nandi@hotmail.com) 
